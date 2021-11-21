@@ -227,6 +227,18 @@ img{
 	text-align: center;
 }
 
+.contato {
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 25px 20px;
+	width: 50px;
+	color: white;
+	background: #b5055f;
+	border-radius: 10px;
+	box-shadow: black 2px 2px 10px;
+	text-decoration:none;
+}
+
 
 /* rodapé */
 
